@@ -1,0 +1,2 @@
+# GPGPUSIM-Rodinia
+gaussian
