@@ -1,0 +1,21 @@
+WG size of kernel 1 = 512, WG size of kernel 2= 4 X 4
+Read file from /mnt/sda/2022-0526/home/liangwy/workspace/gpgpu-sim/spack/opt/spack/linux-debian11-zen/gcc-7.5.0/rodinia-3.1-2teqh4wkpots2hl37awame7pmr33pyj4/data/gaussian/matrix3.txt 
+Matrix m is: 
+    0.00     0.00     0.00 
+    1.00     0.00     0.00 
+    1.00    -0.33     0.00 
+
+Matrix a is: 
+    1.00     1.00     1.00 
+    0.00    -3.00     1.00 
+    0.00    -0.00    -1.67 
+
+Array b is: 
+0.00 4.00 3.33 
+
+The final solution is: 
+4.00 -2.00 -2.00 
+
+
+Time total (including memory transfers)	1.982690 sec
+Time for CUDA kernels:	0.001470 sec
