@@ -11,6 +11,8 @@
 1.安装spack
 ```
 git clone https://github.com/spack/spack.git
+#如果服务器无法直接clone，使用镜像代理
+git clone https://mirror.ghproxy.com/https://github.com/spack/spack.git
 ```
 
 2.在.bashrc文件中添加
